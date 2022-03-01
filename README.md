@@ -11,12 +11,12 @@ This repository contains a FHIR® R4 models for Go. The models consist of Go str
 
 ## Usage
 
-In your project, import `github.com/samply/golang-fhir-models/fhir-models/fhir` and you are done.
+In your project, import `github.com/mharper-imaware/golang-fhir-models/fhir-models/fhir` and you are done.
 
 ## TODOs
 
-* [Support Polymorphic Data Elements](https://github.com/samply/golang-fhir-models/issues/1)
-* [Support ValueSets Referring to Multiple CodeSystems](https://github.com/samply/golang-fhir-models/issues/2)
+* [Support Polymorphic Data Elements](https://github.com/mharper-imaware/golang-fhir-models/issues/1)
+* [Support ValueSets Referring to Multiple CodeSystems](https://github.com/mharper-imaware/golang-fhir-models/issues/2)
 
 ## Develop
 
@@ -24,7 +24,7 @@ This repository contains two Go modules, the generated models itself and the gen
 
 ## License
 
-Copyright 2019 - 2022 The Samply Community
+Copyright 2019 - 2022 The mharper-imaware Community
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
 

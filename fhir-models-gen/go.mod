@@ -1,4 +1,4 @@
-module github.com/mharper-imaware/golang-fhir-models/fhir-models-gen
+module github.com/imaware/golang-fhir-models/fhir-models-gen
 
 go 1.17
 
